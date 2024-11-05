@@ -1,0 +1,6 @@
+requests
+eth-account
+web3
+python-dotenv
+eip712
+websockets
